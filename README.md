@@ -1,5 +1,7 @@
 # NullCIC
-A little board to replace the CIC on the original NES or [OpenTendo](https://github.com/Redherring32/OpenTendo).
+A little board to replace the CIC on the original NES or [OpenTendo](https://github.com/Redherring32/OpenTendo), and restore reset functionality.
+
+All the files needed to make your own are located under the releases section.
 
 
 
